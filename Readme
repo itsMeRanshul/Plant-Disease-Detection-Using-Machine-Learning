@@ -2,4 +2,4 @@ The project is all about the Potato Plant Disease Detection. Machine learning al
 All important information about the project is written in the report attached with the project . The dataset is taken from the Kaggle and the name of the dataset is "Plant Village".
 React JS is used to make the frontend of the project which is linked with the API written in python which is calling the model to check the disease .The accuracy of the model is calculated 93% which is pretty average and can be improved by optimizing the cnn algorithm or by running the model to the more number of epochs. 
 
-PostApi is used to test the Api before connecting it to the frontend of the project so it can work properly when attached to the frontend .
+Postman Api is used to test the Api before connecting it to the frontend of the project so it can work properly when attached to the frontend .
