@@ -1,0 +1,4 @@
+The project is all about the Potato Plant Disease Detection. Machine learning algorithm (CNN) is used to detect the disease . The project also contain the frontend and the API .
+All important information about the project is written in the report attached with the project . The dataset is taken from the Kaggle and the name of the dataset is "Plant Village".
+React JS is used to make the frontend of the project which is linked with the API written in python which is calling the model to check the disease .
+PostApi is used to test the Api before connecting it to the frontend of the project so it can work properly when attached to the frontend .
